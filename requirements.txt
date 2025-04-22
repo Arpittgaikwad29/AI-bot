@@ -1,8 +1,10 @@
-Flask
+tk
+speechrecognition
+pyttsx3
 python-dotenv
 langchain
-langchain-community
-langchain-core
 langchain-groq
 langchain-huggingface
 langchain-chroma
+langchain-core
+langchain-community
